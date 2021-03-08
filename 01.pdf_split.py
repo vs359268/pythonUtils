@@ -2,7 +2,7 @@
 # @Time : 2021/3/8 18:46
 # @Author: Sun Hao
 # @Description: 根据页数切割pdf文件
-# @File : pdf_split.py
+# @File : 01.pdf_split.py
 
 from PyPDF2 import PdfFileReader, PdfFileWriter
 
